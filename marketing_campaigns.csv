@@ -1,0 +1,31 @@
+campaign_name,target_genre,target_region,month,users_before,users_after,net_user_gain,user_growth_pct,premium_growth_pct
+Global Pop Push,Pop,Global,2024-03,30742,34595,3853,12.54,17.53
+Global Pop Push,Pop,Global,2024-04,30742,41231,10489,34.12,12.54
+Global Pop Push,Pop,Global,2024-05,30742,35367,4625,15.04,-0.05
+Global Pop Push,Pop,Global,2024-06,30742,32505,1763,5.74,11.5
+Global Pop Push,Pop,Global,2024-07,30742,37557,6815,22.17,19.7
+Global Pop Push,Pop,Global,2024-08,30742,33889,3147,10.24,-0.22
+LATAM Latin Boost,Latin,LATAM,2024-03,27955,34317,6362,22.76,7.34
+LATAM Latin Boost,Latin,LATAM,2024-04,27955,36951,8996,32.18,5.09
+LATAM Latin Boost,Latin,LATAM,2024-05,27955,34952,6997,25.03,4.88
+LATAM Latin Boost,Latin,LATAM,2024-06,27955,36076,8121,29.05,2.7
+LATAM Latin Boost,Latin,LATAM,2024-07,27955,35399,7444,26.63,23.32
+LATAM Latin Boost,Latin,LATAM,2024-08,27955,31576,3621,12.95,8.39
+Hip-Hop Premium Drive,Hip-Hop,North America,2024-03,52595,64039,11444,21.76,10.63
+Hip-Hop Premium Drive,Hip-Hop,North America,2024-04,52595,54274,1679,3.19,11.25
+Hip-Hop Premium Drive,Hip-Hop,North America,2024-05,52595,57799,5204,9.9,10.89
+Hip-Hop Premium Drive,Hip-Hop,North America,2024-06,52595,57662,5067,9.64,20.62
+Hip-Hop Premium Drive,Hip-Hop,North America,2024-07,52595,66136,13541,25.75,6.48
+Hip-Hop Premium Drive,Hip-Hop,North America,2024-08,52595,62012,9417,17.91,5.45
+APAC K-Pop Wave,K-Pop,APAC,2024-03,53699,62768,9069,16.89,6.38
+APAC K-Pop Wave,K-Pop,APAC,2024-04,53699,57086,3387,6.31,22.87
+APAC K-Pop Wave,K-Pop,APAC,2024-05,53699,60322,6623,12.33,9.31
+APAC K-Pop Wave,K-Pop,APAC,2024-06,53699,72197,18498,34.45,19.43
+APAC K-Pop Wave,K-Pop,APAC,2024-07,53699,58388,4689,8.73,6.11
+APAC K-Pop Wave,K-Pop,APAC,2024-08,53699,61838,8139,15.16,14.83
+India Bollywood Fest,Bollywood,APAC,2024-03,42135,48841,6706,15.92,9.2
+India Bollywood Fest,Bollywood,APAC,2024-04,42135,40052,-2083,-4.94,0.49
+India Bollywood Fest,Bollywood,APAC,2024-05,42135,51984,9849,23.38,12.16
+India Bollywood Fest,Bollywood,APAC,2024-06,42135,51761,9626,22.85,23.8
+India Bollywood Fest,Bollywood,APAC,2024-07,42135,51538,9403,22.32,-0.57
+India Bollywood Fest,Bollywood,APAC,2024-08,42135,45233,3098,7.35,14.0
